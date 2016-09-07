@@ -1,0 +1,26 @@
+{
+  "name": "ejemplo02",
+  "version": "1.0.0",
+  "description": "segundo ejemplo",
+  "main": "app.js",
+  "scripts": {
+    "test": "dir"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dark6010/ex2.git"
+  },
+  "keywords": [
+    "dark6010"
+  ],
+  "author": "grover plaza quiroga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dark6010/ex2/issues"
+  },
+  "homepage": "https://github.com/dark6010/ex2#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "morgan": "^1.7.0"
+  }
+}
